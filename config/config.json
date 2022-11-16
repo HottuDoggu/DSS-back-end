@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "u477530383_Admin",
+    "password": "DSStrack0.",
+    "database": "u477530383_Specialization",
+    "host": "sql545.main-hosting.eu",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "u477530383_Admin",
+    "password": "DSStrack0.",
+    "database": "u477530383_Specialization",
+    "host": "sql545.main-hosting.eu",
+    "dialect": "mysql"
+  }
+}
